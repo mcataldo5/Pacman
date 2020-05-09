@@ -13,7 +13,7 @@ var score = 0;
 
 // Images for Pacman, Blue Ghost, and Red Ghost
 function preload () {
-  pacman = loadImage('Pacman.png');
+  pacman = loadImage('pacman.png');
   blueGhost = loadImage('blue.ghost.png');
   redGhost = loadImage('red.ghost.png');
 }
